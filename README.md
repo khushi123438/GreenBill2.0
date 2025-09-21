@@ -10,7 +10,7 @@ When I started my first year of B.Tech CSE, I wanted to build something beyond a
 - **User login & secure bill uploads** – Users can view past bills in “My Bills”.  
 - **Interactive dashboard** – Displays historical data and predicts future electricity usage with JS-based algorithmic logic.  
 - **Audit form + Eco Guide** – Provides actionable tips to save energy.  
-- **GreenBot chatbot** – Assists users with queries and suggestions for energy efficiency.  
+- **Chatbot** – Assists users with queries and suggestions for energy efficiency.  
 
 ---
 
