@@ -1,15 +1,14 @@
-# 🌿 GreenBill 2.0 – Smart Digital Billing & Expense Tracker
+# 🌿 GreenBill2.0 – Smart Digital Billing & Expense Tracker
 
-GreenBill 2.0 is a full-stack web application that allows users to upload, store, and manage their bills digitally.  
+GreenBill2.0 is a full-stack web application that allows users to upload, store, and manage their bills digitally.  
 The system analyzes previous billing data and estimates next month’s expected expense using logical trend calculations.
 
 It promotes paperless billing and smart expense tracking.
 
----
 
 ## 🚀 Overview
 
-GreenBill 2.0 helps users:
+GreenBill2.0 helps users:
 
 - Upload and store bills securely
 - Access complete billing history
@@ -57,7 +56,6 @@ GreenBill 2.0 helps users:
 ## 🛠 Tech Stack
 
 ### Frontend
-- React.js
 - HTML5
 - CSS3
 - JavaScript
@@ -77,7 +75,7 @@ GreenBill 2.0 helps users:
 
 GreenBill-2.0/
 │
-├── client/ # React Frontend
+├── client/ # Frontend Client
 ├── server/ # Backend Server
 ├── models/ # Database Models
 ├── routes/ # API Routes
@@ -104,7 +102,7 @@ GreenBill-2.0/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/your-username/GreenBill-2.0.git
+git clone https://github.com/khushi123438/GreenBill2.0.git
 
 
 2. Install dependencies
