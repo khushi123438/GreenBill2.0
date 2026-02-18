@@ -59,6 +59,7 @@ GreenBill2.0 helps users:
 - HTML5
 - CSS3
 - JavaScript
+- Tailwind CSS
 
 ### Backend
 - Node.js
