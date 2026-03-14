@@ -95,7 +95,6 @@ GreenBill-2.0/
 | POST   | /api/auth/login | Login user |
 | POST   | /api/bill/upload | Upload bill |
 | GET    | /api/bill/all | Get all bills |
-| GET    | /api/estimate | Get next month expense estimation |
 | POST   | /api/chat | Chatbot interaction |
 
 ---
