@@ -1,4 +1,4 @@
-# 🌿 GreenBill2.0 – Smart Digital Billing & Expense Tracker
+# 🌿 GreenBill2.0 – Electricity Bill Management System
 
 GreenBill2.0 is a full-stack web application that allows users to upload, store, and manage their bills digitally.  
 The system analyzes previous billing data and estimates next month’s expected expense using logical trend calculations.
