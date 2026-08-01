@@ -74,6 +74,9 @@ GreenBill2.0 helps users:
 
 ---
 
+## 📁 Project Structure
+
+```text
 GreenBill-2.0/
 │
 ├── client/ # Frontend Client
@@ -83,7 +86,7 @@ GreenBill-2.0/
 ├── controllers/ # Business Logic
 ├── chatbot/ # Chatbot Logic
 └── .env # Environment Variables
-
+```
 
 ---
 
